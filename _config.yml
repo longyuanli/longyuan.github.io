@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Longyuan Li"
-  avatar           : "images/lly.jpg"
+  avatar           : 
   bio              : "final year phD student at Shanghai Jiao Tong University"
   location         : "Shanghai"
   employer         :
