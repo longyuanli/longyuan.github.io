@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Longyuan Li"
 title_separator          : "-"
 name                     : &name "Longyuan Li"
-description              : &description "final year phD student at Shanghai Jiao Tong University"
+description              : &description "final year phD candidate at Shanghai Jiao Tong University"
 url                      : https://longyuanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Longyuan Li"
   avatar           : "lly.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A final year phD candidate at Shanghai Jiao Tong University"
+  location         : "Shanghai"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=vYJgxxAAAAAJ&hl=en"
+  email            : "jeffli at sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
